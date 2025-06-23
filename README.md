@@ -1,53 +1,55 @@
-📱 Projeto: Maui Games
-🎓 Aluno: Samuel Santos Souza
-Curso: DSM – 5º semestre
-Disciplinas: Laboratório de Programação para Dispositivos Móveis e Computação em Nuvem I
-Professor: Alessandro Fukuta
+# 📱 Projeto: Maui Games
 
-💡 Descrição
-Aplicativo mobile desenvolvido em .NET MAUI que permite cadastrar, listar e excluir jogos.
-Os dados são armazenados em um banco de dados MySQL hospedado em uma máquina virtual no Azure.
+### 🎓 Aluno: Samuel Santos Souza  
+**Curso:** DSM – 5º semestre  
+**Disciplinas:** Laboratório de Programação para Dispositivos Móveis e Computação em Nuvem I  
+**Professor:** Alessandro Fukuta  
 
-🛠️ Tecnologias Utilizadas
-.NET MAUI (.NET 8)
+---
 
-C#
+## 💡 Descrição
 
-MySQL Server
+Aplicativo mobile desenvolvido em .NET MAUI que permite **cadastrar, listar e excluir jogos**.  
+Os dados são armazenados em um **banco de dados MySQL hospedado em uma máquina virtual no Azure**.
 
-Azure Virtual Machine (Linux)
+---
 
-MySql.Data (pacote NuGet)
+## 🛠️ Tecnologias Utilizadas
 
-XAML
+- .NET MAUI (.NET 8)
+- C#
+- MySQL Server
+- Azure Virtual Machine (Linux)
+- MySql.Data (pacote NuGet)
+- XAML
+- Git / GitHub
 
-Git / GitHub
+---
 
-🔧 Funcionalidades
-📥 Cadastro de games (título, plataforma, nota)
+## 🔧 Funcionalidades
 
-📃 Listagem de games cadastrados
+- 📥 Cadastro de games (título, plataforma, nota)
+- 📃 Listagem de games cadastrados
+- 🗑️ Exclusão de registros
+- 🔄 Atualização manual da lista
+- 🌙 Suporte a tema escuro/claro
 
-🗑️ Exclusão de registros
+---
 
-🔄 Atualização manual da lista
+## 🌐 Banco de Dados (Azure)
 
-🌙 Suporte a tema escuro/claro
-
-🌐 Banco de Dados (Azure)
-Banco: gamesdb
-
-Tabela: games
-
-sql
-Copiar
-Editar
+- Banco: `gamesdb`  
+- Tabela: `games`  
+```sql
 CREATE TABLE games (
   id INT AUTO_INCREMENT PRIMARY KEY,
   titulo VARCHAR(100),
   plataforma VARCHAR(50),
   nota INT
 );
+```
+
+
 📂 Estrutura de Telas
 Tela	Descrição
 LoginPage	Tela inicial de login
