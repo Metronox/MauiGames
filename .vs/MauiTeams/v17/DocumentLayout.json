@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\menuprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\menuprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\menuprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\menuprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\cadastrogamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\cadastrogamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\cadastrogamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\cadastrogamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|c:\\users\\samuel\\source\\repos\\mauiteams\\mauiteams\\mauiteams.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BB4E0B2-4EF7-4AE6-B6CA-20F72FD2FBC2}|MauiTeams\\MauiTeams.csproj|solutionrelative:mauiteams\\mauiteams.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\App.xaml",
+              "RelativeDocumentMoniker": "MauiTeams\\App.xaml",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\App.xaml",
+              "RelativeToolTip": "MauiTeams\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T13:06:39.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiTeams\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\LoginPage.xaml.cs",
+              "RelativeToolTip": "MauiTeams\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:28:00.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "MauiTeams\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\LoginPage.xaml",
+              "RelativeToolTip": "MauiTeams\\LoginPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T12:27:04.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiTeams\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\App.xaml.cs",
+              "RelativeToolTip": "MauiTeams\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:29:45.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\MenuPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "MauiTeams\\MenuPrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\MenuPrincipal.xaml.cs",
+              "RelativeToolTip": "MauiTeams\\MenuPrincipal.xaml.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwGsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:22:43.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\MenuPrincipal.xaml",
+              "RelativeDocumentMoniker": "MauiTeams\\MenuPrincipal.xaml",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\MenuPrincipal.xaml",
+              "RelativeToolTip": "MauiTeams\\MenuPrincipal.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T11:22:39.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\Game.cs",
+              "RelativeDocumentMoniker": "MauiTeams\\Game.cs",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\Game.cs",
+              "RelativeToolTip": "MauiTeams\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:32:04.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastroGamePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\CadastroGamePage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiTeams\\CadastroGamePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\CadastroGamePage.xaml.cs",
+              "RelativeToolTip": "MauiTeams\\CadastroGamePage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:10:36.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiTeams.csproj",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\MauiTeams.csproj",
+              "RelativeDocumentMoniker": "MauiTeams\\MauiTeams.csproj",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\MauiTeams.csproj",
+              "RelativeToolTip": "MauiTeams\\MauiTeams.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T22:29:28.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CadastroGamePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\CadastroGamePage.xaml",
+              "RelativeDocumentMoniker": "MauiTeams\\CadastroGamePage.xaml",
+              "ToolTip": "C:\\Users\\Samuel\\source\\repos\\MauiTeams\\MauiTeams\\CadastroGamePage.xaml",
+              "RelativeToolTip": "MauiTeams\\CadastroGamePage.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T22:10:32.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

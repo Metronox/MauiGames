@@ -1,0 +1,21 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiTeams.CadastroGamePage"
+             Title="Cadastrar Game"
+             BackgroundColor="Black">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+            <Label Text="Cadastrar Novo Game" FontSize="24" TextColor="White" HorizontalOptions="Center" />
+
+            <Entry x:Name="tituloEntry" Placeholder="Título do Game" />
+            <Entry x:Name="plataformaEntry" Placeholder="Plataforma (ex: PC, PS5)" />
+            <Entry x:Name="notaEntry" Placeholder="Nota (0 a 10)" Keyboard="Numeric" />
+
+            <Button Text="Salvar"
+                    Clicked="OnSalvarClicked"
+                    BackgroundColor="#FFD700"
+                    TextColor="Black" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
